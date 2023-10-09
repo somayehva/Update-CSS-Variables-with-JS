@@ -29,23 +29,6 @@ You can try the live demo [here](link-to-your-live-demo).
 - **Spacing Control**: Modify the spacing around the image while keeping its size constant.
 - **Interactive UI**: A user-friendly interface that provides real-time feedback as you make adjustments.
 
-## How to Use
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/js-css-manipulation.git
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and commit them.
-- Push your changes to your fork.
-- Submit a pull request.
-- Please make sure to follow the code of conduct.
 
 ## License
 
