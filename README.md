@@ -2,7 +2,7 @@
 
 A web application that allows users to customize the appearance of an image by adjusting CSS properties such as blur and spacing using range inputs.
 
-![Update CSS Variables with JS](Update-CSS-Variables-with-JS.png)
+![Update CSS Variables with JS]([Update-CSS-Variables-with-JS.pn](https://github.com/somayehva/Update-CSS-Variables-with-JS/blob/main/Update%20CSS%20Variables%20with%20JS.png)g)
 
 ## Table of Contents
 - [Demo](#demo)
