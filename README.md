@@ -4,17 +4,10 @@ A web application that allows users to customize the appearance of an image by a
 
 ![Update CSS Variables with JS](https://github.com/somayehva/Update-CSS-Variables-with-JS/blob/main/Update%20CSS%20Variables%20with%20JS.png)
 
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/CSS-variables/).
 
 ## Technologies Used
 
@@ -32,4 +25,4 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
